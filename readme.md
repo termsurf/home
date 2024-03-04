@@ -19,6 +19,55 @@
 
 This is the entrypoint into the team shared repos. See and run the `./load.sh` script to install all the public and private repos when you first get started.
 
+## Folder Structure
+
+```
+/moon
+  /site
+    /base.surf/base.surf
+    /chat.surf/chat.surf
+    /code.surf/code.surf
+    /form.surf/form.surf
+    /leaf.surf/leaf.surf
+    /task.surf/task.surf
+    /term.surf/term.surf
+    /text.surf/text.surf
+    /tone.surf/tone.surf
+    /tune.surf/tune.surf
+  /tool
+    /vine.js
+  /base
+    /base-chat
+    /base-file
+    /base-mark
+    /base-text
+./star
+  /tool
+    /chat.js
+    /chocolatey-task
+    /flow.js
+    /form.js
+    /have.js
+    /homebrew-load
+    /kink-site.js
+    /kink-text.js
+    /kink.js
+    /leaf
+    /love-code.js
+    /mesh.js
+    /scan-link.js
+    /site.js
+    /size.js
+    /talk.js
+    /task
+    /text.js
+    /time.js
+    /tint-text.js
+    /tone-code.js
+    /tone.js
+    /work.js
+```
+
 ## Site
 
 - `tone.surf`: Cross-language writing system.
