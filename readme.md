@@ -17,7 +17,7 @@
 
 ## Introduction
 
-This is the entrypoint into the team shared repos.
+This is the entrypoint into the team shared repos. See and run the `./load.sh` script to install all the public and private repos when you first get started.
 
 ## Site
 
